@@ -1,0 +1,29 @@
+# Flutter/Dart
+.dart_tool/
+.build/
+.packages
+.pub-cache/
+.pub/
+
+# Android
+*.iml
+.gradle/
+local.properties
+*.apk
+*.ap_
+/build/
+
+# iOS
+*.xcuserstate
+Pods/
+Podfile.lock
+/build/
+
+# VS Code
+.vscode/
+
+# macOS
+.idea/
+
+# Logs
+*.log
