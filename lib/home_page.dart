@@ -1,6 +1,6 @@
-import 'package:allen/feature_box.dart';
-import 'package:allen/openai_service.dart';
-import 'package:allen/pallete.dart';
+import 'package:sabo_project/feature_box.dart';
+import 'package:sabo_project/openai_service.dart';
+import 'package:sabo_project/pallete.dart';
 import 'package:animate_do/animate_do.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_tts/flutter_tts.dart';
